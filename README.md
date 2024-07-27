@@ -17,6 +17,10 @@
             padding: 10px 0;
             text-align: center;
         }
+        .logo {
+            max-width: 200px; /* Sesuaikan ukuran logo sesuai kebutuhan */
+            height: auto;
+        }
         nav {
             display: flex;
             justify-content: center;
@@ -70,6 +74,7 @@
 </head>
 <body>
     <header>
+        <img src="URL-LOGO-ANDA" alt="SBI INTERIOR Logo" class="logo">
         <h1>SBI INTERIOR BY MODERN DEKORINDO</h1>
         <p>Menawarkan keperluan material dekor yang berkualitas</p>
     </header>
@@ -121,11 +126,9 @@
             <h2>Kontak Kami</h2>
             <p>Jika Anda memiliki pertanyaan atau ingin memesan produk, silakan hubungi kami melalui informasi di bawah ini:</p>
             <div class="contact-info">
-                <p>Alamat: Jl. Contoh No. 123, Jakarta</p>
-                <p>Telepon: (021) 123-4567</p>
-                <p>WhatsApp: <a href="tel:+6285135069340">0851-3506-9340</a></p>
-                <p>Email: <a href="mailto:info@sbi-interior.co.id">info@sbi-interior.co.id</a></p>
-                <p>Alamat di Google Maps: <a href="https://maps.app.goo.gl/NyHeXYqDhkbuKQmu7" target="_blank">Lihat di Google Maps</a></p>
+                <p>Alamat: <a href="https://maps.app.goo.gl/NyHeXYqDhkbuKQmu7" target="_blank">Lihat di Google Maps</a></p>
+                <p>Telepon: <a href="tel:+6285135069340">(+62) 851-3506-9340</a></p>
+                <p>Email: <a href="mailto:suryabisnisinterindo@gmail.com">suryabisnisinterindo@gmail.com</a></p>
                 <p>Ikuti kami di Sosial Media: <a href="https://linkgoods.com/sbi" target="_blank">Akun Sosial Media</a></p>
             </div>
         </section>
