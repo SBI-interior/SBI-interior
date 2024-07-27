@@ -52,6 +52,20 @@
         .contact-info {
             margin-top: 10px;
         }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -72,11 +86,31 @@
         </section>
         <section id="services" class="section">
             <h2>Layanan Kami</h2>
+            <p>Kami menawarkan layanan konsultasi dan desain gratis untuk membantu Anda memilih material dekor yang tepat untuk kebutuhan Anda.</p>
+            <h3>Untuk Dinding:</h3>
             <ul>
-                <li>Wallpaper dan Hiasan Dinding</li>
-                <li>Cat dan Finishing</li>
-                <li>Perabotan dan Aksesori Dekorasi</li>
-                <li>Desain Interior</li>
+                <li>WPC Wallpanel</li>
+                <li>Wallboard</li>
+                <li>Partisi Hollow</li>
+                <li>UV Board</li>
+                <li>PU Stone</li>
+                <li>Eco Stone</li>
+                <li>Kertasive</li>
+            </ul>
+            <h3>Untuk Atap:</h3>
+            <ul>
+                <li>Plafon PVC</li>
+                <li>Hollow</li>
+            </ul>
+            <h3>Untuk Lantai:</h3>
+            <ul>
+                <li>SPC Flooring</li>
+                <li>Vinyl Flooring</li>
+                <li>Accessories Lantai</li>
+            </ul>
+            <h3>Atap, Tembok, dan Lantai:</h3>
+            <ul>
+                <li>Berbagai Aksesori terkait</li>
             </ul>
         </section>
         <section id="about" class="section">
@@ -89,7 +123,10 @@
             <div class="contact-info">
                 <p>Alamat: Jl. Contoh No. 123, Jakarta</p>
                 <p>Telepon: (021) 123-4567</p>
-                <p>Email: info@sbi-interior.co.id</p>
+                <p>WhatsApp: <a href="tel:+6285135069340">0851-3506-9340</a></p>
+                <p>Email: <a href="mailto:info@sbi-interior.co.id">info@sbi-interior.co.id</a></p>
+                <p>Alamat di Google Maps: <a href="https://maps.app.goo.gl/NyHeXYqDhkbuKQmu7" target="_blank">Lihat di Google Maps</a></p>
+                <p>Ikuti kami di Sosial Media: <a href="https://linkgoods.com/sbi" target="_blank">Akun Sosial Media</a></p>
             </div>
         </section>
     </div>
